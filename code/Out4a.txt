@@ -1,0 +1,28 @@
+
+=== CÁLCULO DE INTEGRAL t-STUDENT CON REGLA DE SIMPSON ===
+Por favor ingrese los siguientes valores:
+
+Ingrese x inicial (límite inferior): 0.000
+Ingrese x final (límite superior): 1.100
+Ingrese grados de libertad (dof, entero > 0): 9
+Ingrese número inicial de segmentos (par): 10
+
+=== INICIANDO CÁLCULO ITERATIVO ===
+Precisión requerida: ±0.00001
+Segmentos iniciales: 10
+
+Iteración 1:
+  Segmentos: 10
+  P = 0.3500589043
+
+Iteración 2:
+  Segmentos: 20
+  P = 0.3500586369
+  Diferencia = 0.0000002674
+  ✓ Precisión alcanzada
+
+=== CÁLCULO COMPLETADO ===
+Iteraciones totales: 2
+Segmentos finales: 20
+Precisión alcanzada: 0.0000002674
+Resultado final guardado en Out4a.txt
